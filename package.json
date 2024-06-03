@@ -1,0 +1,7 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "The first package i've ever made",
+  "main": "app.js",
+  "license": "MIT"
+}
